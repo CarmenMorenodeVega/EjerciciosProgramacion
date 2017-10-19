@@ -32,7 +32,7 @@ public class Ejercicio01 {
         System.out.println("Programación");
         break;
       case "viernes":
-        System.out.println("Bases de Datos");
+        System.out.println("Programación");
         break;
       case "sábado":
         // continúa debajo
