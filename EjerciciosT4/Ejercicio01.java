@@ -35,7 +35,6 @@ public class Ejercicio01 {
         System.out.println("Programación");
         break;
       case "sábado":
-        // continúa debajo
       case "domingo":
         System.out.println("¡Ese día no hay clase!");
         break;
