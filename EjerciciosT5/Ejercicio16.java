@@ -1,11 +1,13 @@
 /**
  * T5. Bucles
  *
- * 00. Decir si un número es primo (bucle for) .
+ * 16. Escribe un programa que diga si un número introducido por    	   teclado es o no primo. 
+       Un número primo es aquel que sólo es divisible entre él mismo
+       y la unidad.
  *
  * Carmen Moreno de Vega
  */
-public class numerosPrimos {
+public class Ejercicio16 {
 
   public static void main(String[] args) {
     
